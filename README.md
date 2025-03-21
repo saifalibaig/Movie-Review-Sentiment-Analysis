@@ -53,3 +53,35 @@ Three classification models were trained and evaluated:
 - **F1 Score:** 0.8492
 
 
+---
+
+### 📈 Support Vector Machine (SVM)
+- **Accuracy:** 87.26%
+- **F1 Score:** 0.8751
+
+
+---
+
+## 🧠 Conclusion
+
+- **Logistic Regression** performed the best across all metrics.
+- **Naive Bayes** was the fastest but least accurate.
+- **SVM** provided a solid balance between performance and training time.
+
+---
+
+## 🚀 Future Work
+
+- Implement deep learning models (e.g., LSTM, BERT)
+- Hyperparameter tuning with GridSearchCV
+- Create a web interface using Flask or Streamlit
+- Explore multiclass or sentiment intensity classification
+
+---
+
+## 📁 Files Included
+
+- `Movie_Review_Sentiment_Analysis.ipynb`: Jupyter notebook with all steps
+- Dataset (IMDB): Download separately [here](https://ai.stanford.edu/~amaas/data/sentiment/)
+
+
