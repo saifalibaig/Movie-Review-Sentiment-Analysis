@@ -38,9 +38,18 @@ Three classification models were trained and evaluated:
 
 ---
 
+
 ## 📊 Evaluation Results
 
 ### ✅ Logistic Regression (Best)
 - **Accuracy:** 88.40%
 - **F1 Score:** 0.8868
+
+
+---
+
+### 🧠 Naive Bayes
+- **Accuracy:** 84.77%
+- **F1 Score:** 0.8492
+
 
