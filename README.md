@@ -6,7 +6,7 @@ This project focuses on performing sentiment analysis on movie reviews using mac
 
 ## 📂 Dataset
 
-The dataset used is the [IMDb Movie Review Dataset](https://ai.stanford.edu/~amaas/data/sentiment/) which contains 50,000 labeled movie reviews:
+The dataset used is the [IMDb Movie Review Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) which contains 50,000 labeled movie reviews:
 
 - 25,000 positive reviews
 - 25,000 negative reviews  
@@ -81,7 +81,7 @@ Three classification models were trained and evaluated:
 
 ## 📁 Files Included
 
-- `Movie_Review_Sentiment_Analysis.ipynb`: Jupyter notebook with all steps
-- Dataset (IMDB): Download separately [here](https://ai.stanford.edu/~amaas/data/sentiment/)
+- `Movie_Review_Sentiment_Analysis_.ipynb`: Jupyter notebook with all steps
+- Dataset (IMDB): Download separately [here](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
 
