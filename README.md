@@ -73,9 +73,7 @@ Three classification models were trained and evaluated:
 ## 🚀 Future Work
 
 - Implement deep learning models (e.g., LSTM, BERT)
-- Hyperparameter tuning with GridSearchCV
 - Create a web interface using Flask or Streamlit
-- Explore multiclass or sentiment intensity classification
 
 ---
 
